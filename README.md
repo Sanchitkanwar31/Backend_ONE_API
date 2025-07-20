@@ -144,7 +144,7 @@ README.md               # Project documentation
 5. Run the app:
 
    ```bash
-   uvicorn app.main:app --reload
+   uvicorn app.main:app 
    ```
 6. Visit: `http://localhost:8000/docs`
 
@@ -152,7 +152,7 @@ README.md               # Project documentation
 
 ##  Deployment
 
-Deploy your app to **Render** or **Railway** using a free plan. Share only the base URL (e.g., `https://hrone-app.onrender.com`).
+Deploy your app to **Render** or **Railway** using a free plan. Share only the base URL (e.g., `https://backend-hrone-api.onrender.com/`).
 
 ---
 
