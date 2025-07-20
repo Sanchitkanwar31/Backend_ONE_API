@@ -152,7 +152,7 @@ README.md               # Project documentation
 
 ##  Deployment
 
-Deploy your app to **Render** or **Railway** using a free plan. Share only the base URL (e.g., `https://backend-hrone-api.onrender.com/`).
+Deploy your app to **Render**  using a free plan. Sharing the base URL :`https://backend-hrone-api.onrender.com/`.
 
 ---
 
