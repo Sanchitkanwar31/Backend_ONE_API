@@ -10,7 +10,7 @@ This project is a sample backend service for an e-commerce platform like Flipkar
 * **Framework**: FastAPI
 * **Database**: MongoDB Atlas (M0 free cluster)
 * **ODM/Driver**: PyMongo
-* **Deployment**: Render / Railway (Free tier)
+* **Deployment**: Render (Can take 1 min to run bcz of free tier)
 
 ---
 
