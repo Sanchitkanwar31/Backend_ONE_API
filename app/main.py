@@ -11,6 +11,6 @@ app.include_router(products.router)
 app.include_router(orders.router)
 
 # health status route
-@app.get("/status")
+@app.get("/")
 def root():
-    return {"message": "HROne API is up and running!"}
+    return {"message": "HROne API is running perform testing by adding /docs!"}
